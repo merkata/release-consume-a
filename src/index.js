@@ -1,4 +1,4 @@
 const greet = (name) => {
-  return `Hello world from ${name}! I have created my first npm package!`;
+  return `Hello beautiful world from ${name}! I have created my first npm package!`;
 };
 export { greet };
