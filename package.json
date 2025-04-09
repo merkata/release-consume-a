@@ -1,0 +1,20 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "A sample Hello World node app for testing release and versioning strategies",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Testing.........done\"",
+    "build": "echo \"Building.......done\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merkata/release-consume-a.git"
+  },
+  "author": "merkata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merkata/release-consume-a/issues"
+  },
+  "homepage": "https://github.com/merkata/release-consume-a#readme"
+}
